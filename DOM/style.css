@@ -86,3 +86,7 @@ button:active{
 .todo i{
       color: #f55069;
 }
+
+.complete{
+      text-decoration: line-through;
+}
